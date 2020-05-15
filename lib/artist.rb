@@ -4,7 +4,6 @@ attr_accessor :title :artist
 
 
 end
-.new("title")
 
 
 
