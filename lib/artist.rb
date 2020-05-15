@@ -9,7 +9,7 @@ end
 class Artist
   attr_accessor :name
 end
-artist = Artist.new("artist")
-song = Song.new("song")
+artist = Artist.new
+song = Song.new
 
 song.artist = artist
