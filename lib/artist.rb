@@ -4,9 +4,7 @@ attr_accessor :title
 
 end
 
-title = Song.new("title")
-
- .artist = drake
+Song.new
 
 class Artist
   attr_accessor :name
