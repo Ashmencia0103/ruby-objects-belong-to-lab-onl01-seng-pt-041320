@@ -12,4 +12,4 @@ end
 # artist = Artist.new
 # song = Song.new
 
-song.artist = artist
+# song.artist = artist
